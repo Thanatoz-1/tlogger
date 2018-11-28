@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to tlogger
 
-You can use the [editor on GitHub](https://github.com/Thanatoz-1/tlogger/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here you are going to find all the blogs and personal notes maintained by me for the purpose of sharing with you all. My complete blog is centered over the techniques for *Mastering Machine learning* from a mathematical point of view and to improve the *Programming and coding* techniques with the use of a variety of opensource tools and libraries. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The folders in this dir are my personal notes that have been written as I study. The notes I have written could be found under my personal github page at [this link](https://www.dhyanitushar.ml/tlogger). In case you find any material that need changes, you can reach out to me at this email with the subject containing *tlogger* and I will try to get back to you as soon as possible. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Thanatoz-1/tlogger/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Hope you have wonderful learning.
