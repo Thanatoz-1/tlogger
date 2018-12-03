@@ -1,5 +1,5 @@
 ## Welcome to tlogger
-
+---
 Here you are going to find all the blogs and personal notes maintained by me for the purpose of sharing with you all. My complete blog is centered over the techniques for *Mastering Machine learning* from a mathematical point of view and to improve the *Programming and coding* techniques with the use of a variety of opensource tools and libraries. 
 
 The blogs and notes will be mostly centeric on the following concepts:
